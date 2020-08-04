@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+
+db.sqlite3
+public/
+.env
+.venv/
+
+.git/
+
+# pycharm
+.idea/
+
+# coverage result
+.coverage
+/coverage/
